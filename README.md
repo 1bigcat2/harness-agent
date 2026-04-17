@@ -77,7 +77,6 @@ DeerFlow has newly integrated the intelligent search and crawling toolset indepe
   - [⚠️ Security Notice](#️-security-notice)
     - [Improper Deployment May Introduce Security Risks](#improper-deployment-may-introduce-security-risks)
     - [Security Recommendations](#security-recommendations)
-  - [Contributing](#contributing)
   - [License](#license)
   - [Acknowledgments](#acknowledgments)
     - [Key Contributors](#key-contributors)
